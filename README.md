@@ -1,1 +1,2 @@
-# Turs3, Third Competition
+# Third Competition
+# Task in README.dm
