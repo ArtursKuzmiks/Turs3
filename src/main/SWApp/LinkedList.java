@@ -1,6 +1,5 @@
 package SWApp;
 
-
 public class LinkedList {
     class Node {
         private double data;
@@ -76,8 +75,6 @@ public class LinkedList {
            tail = tail.getNext();
        }
     }
-
-
 
     Node getStart() {
         return start;

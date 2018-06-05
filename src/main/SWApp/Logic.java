@@ -8,7 +8,7 @@ class Logic {
     private Constants cons = new Constants();
     private ArrayList<Employees> tempEmpList;
 
-    private Queue<Employees> queue = new Queue<>() {
+    private Queue<Employees> queue = new Queue<Employees>() {
         class Node {
             private Employees data;
             private Node next;
